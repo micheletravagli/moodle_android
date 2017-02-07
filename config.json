@@ -10,7 +10,8 @@
     "wsextservice" : "local_mobile",
     "gcmpn": "694767596569",
     "customurlscheme": "moodlemobile",
-    "presets" : {"url": "http://alternanzascuolalavoro.cfiformazione.it", "username": ""},
-    "skipssoconfirmation": "false",
+    "presets" : {"url": "http://alternanzascuolalavoro.cfiformazione.it/login/index.php", "username": ""},
+   "siteurl": ""http://alternanzascuolalavoro.cfiformazione.it/login/index.php", 
+ "skipssoconfirmation": "false",
     "forcedefaultlanguage": "false"
 }
